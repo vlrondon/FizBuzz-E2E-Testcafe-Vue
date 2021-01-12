@@ -1,4 +1,4 @@
-# Project setup instructions:
+# FizzBuzz
 
 ## Install dependencies
 ```
